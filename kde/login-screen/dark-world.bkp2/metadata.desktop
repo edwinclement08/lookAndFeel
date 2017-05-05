@@ -1,0 +1,13 @@
+[SddmGreeterTheme]
+Name=Dark World
+Description=Dark World Theme
+Author=Edwin Clement
+Copyright=(c) 2017, Edwin Clement
+Type=sddm-theme
+Version=0.1
+Screenshot=preview.png
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Theme-Id=darkworld
+Theme-API=2.0
